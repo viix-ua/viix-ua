@@ -6,8 +6,6 @@
 
 ## 1:
 - [Machine Learning From Scratch](https://github.com/viix-co/ML-From-Scratch) : Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
-- [Fast-Neural-Style-Transfer](https://github.com/viix-co/Fast-Neural-Style-Transfer)
-- [fast-neural-style](https://github.com/viix-co/fast-neural-style)
 
 ## 2 (from q-viper):
 - [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)
