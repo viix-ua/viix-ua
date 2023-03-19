@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Awesome Machine Learning](https://github.com/viix-co/awesome-machine-learning) repository.
+
 <!--
 **viix-ua/viix-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
