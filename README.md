@@ -1,7 +1,5 @@
 # [viix - IT-news newsroom and platform](https://viix.co)
 
-[Current repo](https://github.com/viix-co/viix)
-
 [Awesome Machine Learning](https://github.com/viix-co/awesome-machine-learning) repository.
 
 # Useful references
