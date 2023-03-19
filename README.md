@@ -1,4 +1,4 @@
-### [Viix](https://viix.co)
+### [Viix platform](https://viix.co)
 Useful links [repository](https://github.com/viix-co/viix)
 
 [Awesome Machine Learning](https://github.com/viix-co/awesome-machine-learning) repository.
