@@ -6,6 +6,7 @@
 
 ## 1:
 - [Machine Learning From Scratch](https://github.com/viix-co/ML-From-Scratch) : Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
+- [Deep learning samples: NN, LSTM, etc](https://github.com/viix-co/deep-learning-samples)
 - [nn-from-scratch](https://github.com/viix-co/nn-from-scratch)
 - [tf-rnn](https://github.com/viix-co/tf-rnn)
 - [cnn-text-classification-tf](https://github.com/viix-co/cnn-text-classification-tf)
