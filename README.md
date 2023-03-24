@@ -13,7 +13,7 @@
 - [Dual LSTM Encoder for Dialog Response Generation](https://github.com/viix-co/chatbot-retrieval)
 - [deeplearning-papernotes](https://github.com/viix-co/deeplearning-papernotes)
 - [startupreadings](https://github.com/viix-co/startupreadings)
-- NLP utils collection: [NLP](https://github.com/viix-co/NLP)
+- NLP utils collection + **bot**: [NLP](https://github.com/viix-co/NLP)
 
 ## 2 (from q-viper):
 - [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)
