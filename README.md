@@ -13,6 +13,7 @@
 - [Dual LSTM Encoder for Dialog Response Generation](https://github.com/viix-co/chatbot-retrieval)
 - [deeplearning-papernotes](https://github.com/viix-co/deeplearning-papernotes)
 - [startupreadings](https://github.com/viix-co/startupreadings)
+- NLP utils collection: [NLP](https://github.com/viix-co/NLP)
 
 ## 2 (from q-viper):
 - [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)
@@ -42,3 +43,4 @@
 - [Text-Generation-BiLSTM-PyTorch](https://github.com/FernandoLpz/Text-Generation-BiLSTM-PyTorch)
 - [Text-Classification-LSTMs-PyTorch](https://github.com/viix-co/Text-Classification-LSTMs-PyTorch)
 - [Text-Classification-CNN-PyTorch](https://github.com/viix-co/Text-Classification-CNN-PyTorch)
+- [text-generator](https://github.com/viix-co/text-generator)
