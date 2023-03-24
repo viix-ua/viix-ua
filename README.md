@@ -34,6 +34,8 @@
 - [neural-networks-and-deep-learning](https://github.com/viix-co/neural-networks-and-deep-learning)
 - [predicting-bitcoin-prices-using-LSTM](https://github.com/viix-co/predicting-bitcoin-prices-using-LSTM)
 
+- [GIST](https://gist.github.com/viix-co/6d4e3939a9e66d18877cf5e859baff16)
+
 - On Medium: [From a LSTM cell to a Multilayer LSTM Network with PyTorch](https://towardsdatascience.com/from-a-lstm-cell-to-a-multilayer-lstm-network-with-pytorch-2899eb5696f3)
 
 ## Text-classification / Text-generation
