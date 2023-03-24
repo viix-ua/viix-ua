@@ -23,7 +23,7 @@
 ## Other:
 - [IBM: Neural networks from scratch](https://developer.ibm.com/articles/neural-networks-from-scratch) with [sources](https://github.com/viix-co/Neural-Network-From-Scratch)
 
-- [Neural Network from scratch: Part 5: C++ Deep Learning Framework Implementation](https://foundationsofdl.com/2021/12/12/neural-network-from-scratch-part-5-c-deep-learning-framework-implementation) with [sources](https://github.com/viix-co/DeepLearningFrameworkFromScratchCpp)
+- [Neural Network from scratch: Part 5: C++ Deep Learning Framework Implementation](https://foundationsofdl.com/2021/12/12/neural-network-from-scratch-part-5-c-deep-learning-framework-implementation) with [sources C++](https://github.com/viix-co/DeepLearningFrameworkFromScratchCpp)
 
 - [Image Style itransfer](https://github.com/viix-co/hands-on-transfer-learning-with-python)
 
