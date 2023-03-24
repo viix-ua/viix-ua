@@ -25,3 +25,18 @@
 - [Neural Network from scratch: Part 5: C++ Deep Learning Framework Implementation](https://foundationsofdl.com/2021/12/12/neural-network-from-scratch-part-5-c-deep-learning-framework-implementation) with [sources](https://github.com/viix-co/DeepLearningFrameworkFromScratchCpp)
 
 - [Image Style itransfer](https://github.com/viix-co/hands-on-transfer-learning-with-python)
+
+## LSTM's
+- [TimeSeries](https://github.com/viix-co/TimeSeries)
+- [LSTMs](https://github.com/viix-co/LSTMs)
+- [WhydahGally-LSTM-MLP](https://github.com/viix-co/WhydahGally-LSTM-MLP)
+- [Deep-Learning-Specialization](https://github.com/viix-co/Deep-Learning-Specialization)
+- [neural-networks-and-deep-learning](https://github.com/viix-co/neural-networks-and-deep-learning)
+- [predicting-bitcoin-prices-using-LSTM](https://github.com/viix-co/predicting-bitcoin-prices-using-LSTM)
+
+- On Medium: [From a LSTM cell to a Multilayer LSTM Network with PyTorch](https://towardsdatascience.com/from-a-lstm-cell-to-a-multilayer-lstm-network-with-pytorch-2899eb5696f3)
+
+## Text-classification / Text-generation
+- [Text-Generation-BiLSTM-PyTorch](https://github.com/FernandoLpz/Text-Generation-BiLSTM-PyTorch)
+- [Text-Classification-LSTMs-PyTorch](https://github.com/viix-co/Text-Classification-LSTMs-PyTorch)
+- [Text-Classification-CNN-PyTorch](https://github.com/viix-co/Text-Classification-CNN-PyTorch)
