@@ -44,3 +44,7 @@
 - [Text-Classification-LSTMs-PyTorch](https://github.com/viix-co/Text-Classification-LSTMs-PyTorch)
 - [Text-Classification-CNN-PyTorch](https://github.com/viix-co/Text-Classification-CNN-PyTorch)
 - [text-generator](https://github.com/viix-co/text-generator)
+
+# Various frameworks
+
+- [NumPy C++ port](https://github.com/viix-co/NumCpp)
