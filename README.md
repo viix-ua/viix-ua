@@ -45,11 +45,11 @@
 - [Text-Classification-CNN-PyTorch](https://github.com/viix-co/Text-Classification-CNN-PyTorch)
 - [text-generator](https://github.com/viix-co/text-generator)
 
-# Various frameworks
+## Various frameworks
 
 - [NumPy C++ port](https://github.com/viix-co/NumCpp)
 
-# NDArray
+## NDArray
 
 - [ndarray](https://github.com/viix-co/ndarray)
 - [libdynd](https://github.com/viix-co/libdynd)
