@@ -48,3 +48,10 @@
 # Various frameworks
 
 - [NumPy C++ port](https://github.com/viix-co/NumCpp)
+
+# NDArray
+
+- [ndarray](https://github.com/viix-co/ndarray)
+- [libdynd](https://github.com/viix-co/libdynd)
+- [tinyndarray](https://github.com/viix-co/tinyndarray)
+
