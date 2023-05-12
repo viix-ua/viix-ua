@@ -55,3 +55,8 @@
 - [libdynd](https://github.com/viix-co/libdynd)
 - [tinyndarray](https://github.com/viix-co/tinyndarray)
 
+## Pytorch
+
+- [word-embeddings-pytorch](https://github.com/viix-co/word-embeddings-pytorch)
+- [polynomial-numpy with gradient](https://github.com/viix-co/polynomial-numpy)
+
