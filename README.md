@@ -66,10 +66,10 @@
 
 ## Bloomberg C++ [repository board](https://bloomberg.github.io)
 
-- [CBOW modification fixed](https://github.com/viix-co/koan)
-- [cnn](https://github.com/viix-co/cnn-rnf)
-- [ML manual](https://github.com/viix-co/foml)
-- [framework](https://github.com/viix-co/quantum)
+- [CBOW-modification](https://github.com/viix-co/koan)
+- [CNN with RNN](https://github.com/viix-co/cnn-rnf)
+- [Foundations of Machine Learning](https://github.com/viix-co/foml)
+- [Multi-threaded library](https://github.com/viix-co/quantum)
 
 ## Microsoft book examples:
 
