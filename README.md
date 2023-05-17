@@ -1,6 +1,6 @@
 # [viix - IT-news newsroom and platform](https://viix.co)
 
-[Awesome Machine Learning](https://github.com/viix-co/awesome-machine-learning) repository.
+[Awesome Machine Learning links list](https://github.com/viix-co/awesome-machine-learning) repository.
 
 # Useful references
 
@@ -60,3 +60,22 @@
 - [word-embeddings-pytorch](https://github.com/viix-co/word-embeddings-pytorch)
 - [polynomial-numpy with gradient](https://github.com/viix-co/polynomial-numpy)
 
+## ML C++ with Python on DB
+
+- [Hands-On-Machine-Learning-with-C++ (From Kirill)](https://github.com/packtpublishing/hands-on-machine-learning-with-cpp)
+
+## Bloomberg C++ [repository board](https://bloomberg.github.io)
+
+- [CBOW modification fixed](https://github.com/viix-co/koan)
+- [cnn](https://github.com/viix-co/cnn-rnf)
+- [ML manual](https://github.com/viix-co/foml)
+- [framework](https://github.com/viix-co/quantum)
+
+## Microsoft book examples:
+
+Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
+- [Embeddings](https://github.com/viix-co/AI-For-Beginners/blob/main/lessons/5-NLP/14-Embeddings/EmbeddingsTF.ipynb)
+- [NER](https://github.com/viix-co/AI-For-Beginners/blob/main/lessons/5-NLP/19-NER/NER-TF.ipynb)
+- [CBoW](https://github.com/viix-co/AI-For-Beginners/blob/main/lessons/5-NLP/15-LanguageModeling/CBoW-TF.ipynb)
+- [Text classification](https://github.com/viix-co/AI-For-Beginners/blob/main/lessons/5-NLP/13-TextRep/TextRepresentationTF.ipynb)
