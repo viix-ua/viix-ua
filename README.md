@@ -88,3 +88,4 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 ## CBoW
 
 - [CBoW](https://github.com/viix-co/cbow2)
+- [MiniWord2Vec](https://github.com/viix-co/MiniWord2Vec) based on NumPy
