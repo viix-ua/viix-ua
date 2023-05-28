@@ -84,3 +84,7 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 - [nbow](https://github.com/viix-co/text_convnet)
 - **nbow**-code has been re-factored and integrated into the new repo: [sentiment analysis](https://github.com/viix-co/rcnn/tree/master/code/sentiment)
+
+## CBoW
+
+- [CBoW](https://github.com/viix-co/cbow2)
