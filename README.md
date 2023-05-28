@@ -93,4 +93,4 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 ## NN from scratch
 
-- [ANN pure NumPy](https://github.com/viix-co/ann-pure-numpy) from scratch
+- [ANN pure NumPy](https://github.com/viix-co/ann-pure-numpy) from scratch, step-by-step.
