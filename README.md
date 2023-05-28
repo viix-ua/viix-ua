@@ -87,7 +87,8 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 ## CBoW
 
-- [CBoW](https://github.com/viix-co/cbow2)
+- [CBoW, part-1](https://github.com/viix-co/cbow2)
+- [CBoW, part-2](https://github.com/viix-co/nlp-starter-logsoftmax-nlloss-cross-entropy)
 - [MiniWord2Vec](https://github.com/viix-co/MiniWord2Vec) based on NumPy
 
 ## NN from scratch
