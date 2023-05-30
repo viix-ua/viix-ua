@@ -92,6 +92,7 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MiniWord2Vec](https://github.com/viix-co/MiniWord2Vec) based on NumPy
 - [pytorch-continuous-bag-of-words](https://github.com/viix-co/pytorch-continuous-bag-of-words)
 - [cross_entropy_py](https://github.com/viix-co/cross_entropy_py)
+- [nlp-starter-logsoftmax-nlloss-cross-entropy](https://github.com/viix-co/nlp-starter-logsoftmax-nlloss-cross-entropy)
 
 ## NN from scratch
 
