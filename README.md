@@ -92,6 +92,8 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MiniWord2Vec](https://github.com/viix-co/MiniWord2Vec) based on NumPy
 - [pytorch-continuous-bag-of-words](https://github.com/viix-co/pytorch-continuous-bag-of-words)
 - [cross_entropy_py](https://github.com/viix-co/cross_entropy_py)
+- [tensorflow-word2vec-cbow-basic](https://github.com/viix-co/tensorflow-word2vec-cbow-basic)
+- [cbow-demo](https://github.com/viix-co/cbow-demo)
 
 ## NN from scratch
 
