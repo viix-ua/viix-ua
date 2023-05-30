@@ -88,11 +88,10 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 ## CBoW
 
 - [CBoW, part-1](https://github.com/viix-co/cbow2)
-- [CBoW, part-2](https://github.com/viix-co/nlp-starter-logsoftmax-nlloss-cross-entropy)
+- [CBoW, part-2 (nlp-starter-logsoftmax-nlloss-cross-entropy)](https://github.com/viix-co/nlp-starter-logsoftmax-nlloss-cross-entropy)
 - [MiniWord2Vec](https://github.com/viix-co/MiniWord2Vec) based on NumPy
 - [pytorch-continuous-bag-of-words](https://github.com/viix-co/pytorch-continuous-bag-of-words)
 - [cross_entropy_py](https://github.com/viix-co/cross_entropy_py)
-- [nlp-starter-logsoftmax-nlloss-cross-entropy](https://github.com/viix-co/nlp-starter-logsoftmax-nlloss-cross-entropy)
 
 ## NN from scratch
 
