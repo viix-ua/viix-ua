@@ -102,3 +102,4 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 ## Image processing
 
 - [Image combiner](https://github.com/viix-co/image-combiner) + NN implementation **from scratch**
+- [ConvNet-JS](https://github.com/viix-co/convnetjs) by Andrej Karpathy
