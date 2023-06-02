@@ -14,6 +14,7 @@
 - [deeplearning-papernotes](https://github.com/viix-co/deeplearning-papernotes)
 - [startupreadings](https://github.com/viix-co/startupreadings)
 - NLP utils collection + **bot** + **text-generation**: [NLP](https://github.com/viix-co/NLP)
+- [NLPTools](https://github.com/viix-co/NLPTools) for text processing and other tools
 
 ## 2 (from q-viper):
 - [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)
