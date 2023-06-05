@@ -39,6 +39,8 @@
 - [GIST](https://gist.github.com/viix-co/6d4e3939a9e66d18877cf5e859baff16)
 
 - On Medium: [From a LSTM cell to a Multilayer LSTM Network with PyTorch](https://towardsdatascience.com/from-a-lstm-cell-to-a-multilayer-lstm-network-with-pytorch-2899eb5696f3)
+- [rnn-tutorial-gru-lstm](https://github.com/viix-co/rnn-tutorial-gru-lstm)
+- [sentiment-analysis](https://github.com/viix-co/sentiment-analysis)
 
 ## Text-classification / Text-generation
 - [Text-Generation-BiLSTM-PyTorch](https://github.com/FernandoLpz/Text-Generation-BiLSTM-PyTorch)
