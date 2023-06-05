@@ -10,7 +10,7 @@
 - [nn-from-scratch](https://github.com/viix-co/nn-from-scratch)
 - [tf-rnn](https://github.com/viix-co/tf-rnn)
 - [cnn-text-classification-tf](https://github.com/viix-co/cnn-text-classification-tf) **(TF)** + [CNN_sentence](https://github.com/viix-co/CNN_sentence) **(NumPy)**
-- [Dual LSTM Encoder for Dialog Response Generation](https://github.com/viix-co/chatbot-retrieval)
+- [Dual LSTM Encoder for Dialog Response Generation](https://github.com/viix-co/chatbot-retrieval) chatbot-retrieval
 - [deeplearning-papernotes](https://github.com/viix-co/deeplearning-papernotes)
 - [startupreadings](https://github.com/viix-co/startupreadings)
 - NLP utils collection + **bot** + **text-generation**: [NLP](https://github.com/viix-co/NLP)
