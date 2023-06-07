@@ -17,8 +17,8 @@
 - [NLPTools](https://github.com/viix-co/NLPTools) for text processing and other tools
 
 ## 2 (from q-viper):
-- [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)
-- [ML-DL-implementation](https://github.com/viix-co/ML-DL-implementation) + [original fork](https://github.com/diixo/ML-DL-implementation) implementation of ML and DL algorithms from scratch in python using nothing but numpy.
+- [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)**(++)**
+- [ML-DL-implementation](https://github.com/viix-co/ML-DL-implementation)**(++)** + [original fork](https://github.com/diixo/ML-DL-implementation) implementation of ML and DL algorithms from scratch in python using nothing but numpy.
 - [Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python)
 
 ## Other:
