@@ -6,6 +6,7 @@
 
 ## 1:
 - [Machine Learning From Scratch](https://github.com/viix-co/ML-From-Scratch) : Python implementations of some of the fundamental Machine Learning models and algorithms from scratch.
+- [Machine-Learning-Numpy](ttps://github.com/viix-co/Machine-Learning-Numpy) clear NumPy, full list of impl.
 - [Deep learning samples: NN, LSTM, etc](https://github.com/viix-co/deep-learning-samples)
 - [nn-from-scratch](https://github.com/viix-co/nn-from-scratch)
 - [tf-rnn](https://github.com/viix-co/tf-rnn)
@@ -16,6 +17,7 @@
 - NLP utils collection + **bot** + **text-generation**: [NLP](https://github.com/viix-co/NLP) (CBoW + skip-gram)
 - [NLPTools](https://github.com/viix-co/NLPTools) for text processing and other tools
 - [deepnet](https://github.com/viix-co/deepnet)
+- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) code to book
 
 ## 2 (from q-viper):
 - [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)**(++)**
@@ -114,3 +116,8 @@ word2vec-from-scratch-with-python
 
 - [Image combiner](https://github.com/viix-co/image-combiner) + NN implementation **from scratch**
 - [ConvNet-JS](https://github.com/viix-co/convnetjs) by Andrej Karpathy
+
+## Audio signal processing
+
+- [signal_processing](https://github.com/viix-co/signal_processing)
+- [ThinkDSP](https://github.com/viix-co/ThinkDSP)
