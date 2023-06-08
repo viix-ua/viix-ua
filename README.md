@@ -15,6 +15,7 @@
 - [startupreadings](https://github.com/viix-co/startupreadings)
 - NLP utils collection + **bot** + **text-generation**: [NLP](https://github.com/viix-co/NLP) (CBoW + skip-gram)
 - [NLPTools](https://github.com/viix-co/NLPTools) for text processing and other tools
+- [deepnet](https://github.com/viix-co/deepnet)
 
 ## 2 (from q-viper):
 - [ML-from-Basics](https://github.com/viix-co/ML-from-Basics)**(++)**
