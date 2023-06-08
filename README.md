@@ -93,6 +93,7 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [word2vec](https://github.com/viix-co/word2vec) c++ impl from T.Mikolov
 - [word2vec-from-scratch-with-python](https://github.com/viix-co/word2vec-from-scratch-with-python)
 - [word2vecpy](https://github.com/viix-co/word2vecpy)
+- [tensorflow_word2vec_cbow_basic.py](https://github.com/viix-co/tensorflow-word2vec-cbow-basic) from www.tensorflow.org/versions/r0.10
 - 
 - [CBoW, part-1](https://github.com/viix-co/cbow2)
 - [CBoW, part-2 (nlp-starter-logsoftmax-nlloss-cross-entropy)](https://github.com/viix-co/nlp-starter-logsoftmax-nlloss-cross-entropy)
