@@ -105,8 +105,6 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [cross_entropy_py](https://github.com/viix-co/cross_entropy_py) tutorial
 - [tensorflow-word2vec-cbow-basic](https://github.com/viix-co/tensorflow-word2vec-cbow-basic)
 - [cbow-demo](https://github.com/viix-co/cbow-demo) based on PyTorch
-- 
-word2vec-from-scratch-with-python
 
 ## NN from scratch
 
