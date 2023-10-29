@@ -119,3 +119,25 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 - [signal_processing](https://github.com/viix-co/signal_processing)
 - [ThinkDSP](https://github.com/viix-co/ThinkDSP)
+
+## LSTM collection (from topic LSTM)[18]
+
+- [LSTM_from_scratch](https://github.com/viix-co/LSTM_from_scratch)
+- [LSTM_py2numpy_code_vectorization](https://github.com/viix-co/LSTM_py2numpy_code_vectorization)
+- [multilayer-LSTM-with-numpy](https://github.com/viix-co/multilayer-LSTM-with-numpy)
+- [LSTM-DLNN2020](https://github.com/viix-co/LSTM-DLNN2020)
+- [LSTM-RNN-in-numpy](https://github.com/viix-co/LSTM-RNN-in-numpy)
+- [lstm_gru_forward_numpy](https://github.com/viix-co/lstm_gru_forward_numpy)
+- [LSTM-NumPy-3](https://github.com/viix-co/LSTM-NumPy-3)
+- [RNN-LSTM-with-numpy](https://github.com/viix-co/RNN-LSTM-with-numpy)
+- [rnn_lstm_numpy](https://github.com/viix-co/rnn_lstm_numpy)
+- [LSTM-in-numpy-gen-Java](https://github.com/viix-co/LSTM-in-numpy-gen-Java)
+- [LSTM-numpy-2](https://github.com/viix-co/LSTM-numpy-2)
+- [LSTM-Numpy](https://github.com/viix-co/LSTM-Numpy)
+- [LSTM_numpy](https://github.com/viix-co/LSTM_numpy)
+- [Numpy-LSTM-1](https://github.com/viix-co/Numpy-LSTM-1)
+- [LSTM-Numpy-CIFG](https://github.com/viix-co/LSTM-Numpy-CIFG)
+- [Numpy-LSTM](https://github.com/viix-co/Numpy-LSTM)
+- [LSTM_using_numpy](https://github.com/viix-co/LSTM_using_numpy)
+- [RNN-LSTM-in-numpy](https://github.com/viix-co/RNN-LSTM-in-numpy)
+  
