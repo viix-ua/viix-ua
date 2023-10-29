@@ -120,7 +120,7 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [signal_processing](https://github.com/viix-co/signal_processing)
 - [ThinkDSP](https://github.com/viix-co/ThinkDSP)
 
-## LSTM collection (from topic LSTM)[18]
+## LSTM's 18-n collection (from topic LSTM)
 
 - [LSTM_from_scratch](https://github.com/viix-co/LSTM_from_scratch)
 - [LSTM_py2numpy_code_vectorization](https://github.com/viix-co/LSTM_py2numpy_code_vectorization)
@@ -141,3 +141,6 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [LSTM_using_numpy](https://github.com/viix-co/LSTM_using_numpy)
 - [RNN-LSTM-in-numpy](https://github.com/viix-co/RNN-LSTM-in-numpy)
   
+## NLP
+
+- [nlp-deep-learning](https://github.com/viix-co/nlp-deep-learning)
