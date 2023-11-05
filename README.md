@@ -152,3 +152,5 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [ImageBasedModellingEdu](https://github.com/viix-co/ImageBasedModellingEdu)
 - [MVE framework](https://github.com/viix-co/mve), rudimentary Python bindings are available [here](https://github.com/viix-co/py-mve)
 - [MVE wiki](https://github.com/simonfuhrmann/mve/wiki)
+
+[TensorRT C++ framework with environments](https://github.com/viix-co/TensorRT)
