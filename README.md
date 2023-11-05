@@ -144,3 +144,11 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 ## NLP
 
 - [nlp-deep-learning](https://github.com/viix-co/nlp-deep-learning)
+
+## 3D-Reconstruction (CV
+
+- [3d-reconstruction (part-1)](https://github.com/viix-co/shenlan-3d-reconstruction)
+- [3d-point-cloud-processing (part-2)](https://github.com/viix-co/shenlan-3d-point-cloud-processing)
+- [ImageBasedModellingEdu](https://github.com/viix-co/ImageBasedModellingEdu)
+- [MVE framework](https://github.com/viix-co/mve)
+- [py-MVE](https://github.com/viix-co/py-mve)
