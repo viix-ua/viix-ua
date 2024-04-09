@@ -153,7 +153,7 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MVE framework](https://github.com/viix-co/mve), rudimentary Python bindings are available [here](https://github.com/viix-co/py-mve)
 - [MVE wiki](https://github.com/simonfuhrmann/mve/wiki)
 
-## Education
+## Education (VinitSR7)
 
 - [attention_keras](https://github.com/viix-co/attention_keras)
 - [StackoverFlow-Tag-Predictor](https://github.com/viix-co/StackoverFlow-Tag-Predictor)
