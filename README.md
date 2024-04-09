@@ -153,4 +153,22 @@ Source for [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [MVE framework](https://github.com/viix-co/mve), rudimentary Python bindings are available [here](https://github.com/viix-co/py-mve)
 - [MVE wiki](https://github.com/simonfuhrmann/mve/wiki)
 
+## Education
+
+- [attention_keras](https://github.com/viix-co/attention_keras)
+- [StackoverFlow-Tag-Predictor](https://github.com/viix-co/StackoverFlow-Tag-Predictor)
+- [Human-Activity-Recognition](https://github.com/viix-co/Human-Activity-Recognition)
+- [Naive-Bays-Implemenation](https://github.com/viix-co/Naive-Bays-Implemenation-)
+- [K-Nearest-Neighbor-Implementaion](https://github.com/viix-co/K-Nearest-Neighbor-Implementaion)
+- [K-Means](https://github.com/viix-co/K-Means)
+- [Document-Scanner](https://github.com/viix-co/Document-Scanner-)
+- [GLoVe-Implementation](https://github.com/viix-co/GLoVe-Implementation)
+- [Logistic-Regression-with-Advanced-Optimizers](https://github.com/viix-co/Logistic-Regression-with-Advanced-Optimizers)
+- [TensorFlow-2.0-Question-Answering](https://github.com/viix-co/TensorFlow-2.0-Question-Answering)
+- [Machine-Translation-using-Attention-Networks](https://github.com/viix-co/Machine-Translation-using-Attention-Networks)
+- [Machine-Translation-using-encoder-decoder](https://github.com/viix-co/Machine-Translation-using-encoder-decoder)
+- [Image-Caption-Generation](https://github.com/viix-co/Image-Caption-Generation)
+- [Text-Summarization](https://github.com/viix-co/Text-Summarization)
+
+
 [TensorRT C++ framework with environments](https://github.com/viix-co/TensorRT)
